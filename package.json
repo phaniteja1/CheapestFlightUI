@@ -1,0 +1,23 @@
+{
+  "name": "cheapest-flight-elm",
+  "preferGlobal": true,
+  "version": "0.0.1",
+  "author": "Phani Teja",
+  "description": "cheapest flight in elm js",
+  "license": "MIT",
+  "engines": {
+    "node": ">=0.10"
+  },
+  "scripts": {
+    "start": "node ./app.js"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "elm": "^0.18.0",
+    "gulp": "^3.9.0",
+    "gulp-connect": "^4.0.0",
+    "gulp-elm": "^0.6.1",
+    "gulp-plumber": "^1.1.0",
+    "gulp-util": "^3.0.7"
+  }
+}
